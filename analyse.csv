@@ -1,0 +1,11 @@
+Doublons dans la colonne id :
+Empty DataFrame
+Columns: [id, token, entreprise_id, lien_interet, identifiant_unique, convention_liee, motif_lien_interet_code, motif_lien_interet, autre_motif, information_evenement, montant, date, date_debut, date_fin, id_beneficiaire, identite, prenom, beneficiaire_categorie_code, beneficiaire_categorie, beneficiaire_type_code, beneficiaire_type, beneficiaire_identifiant, beneficiaire_profession_code, profession_libelle, structure_exercice, pays_code, adresse, code_postal, ville, demande_de_rectification, statut, date_publication, date_transmission, raison_sociale, secteur_activite, entr_ville, entr_dep_name, entr_reg_name, entreprise_nom_pays, mere_id, code_postal_entreprise, numero_siren, ville_sanscedex, geom, com_name, com_code, epci_name, epci_code, dep_code, dep_name, reg_code, reg_name, beneficiaire_nom_prenom_com_name, semestre_annee, beneficiaire_nom_pays]
+Index: []
+
+Doublons dans la colonne token :
+Empty DataFrame
+Columns: [id, token, entreprise_id, lien_interet, identifiant_unique, convention_liee, motif_lien_interet_code, motif_lien_interet, autre_motif, information_evenement, montant, date, date_debut, date_fin, id_beneficiaire, identite, prenom, beneficiaire_categorie_code, beneficiaire_categorie, beneficiaire_type_code, beneficiaire_type, beneficiaire_identifiant, beneficiaire_profession_code, profession_libelle, structure_exercice, pays_code, adresse, code_postal, ville, demande_de_rectification, statut, date_publication, date_transmission, raison_sociale, secteur_activite, entr_ville, entr_dep_name, entr_reg_name, entreprise_nom_pays, mere_id, code_postal_entreprise, numero_siren, ville_sanscedex, geom, com_name, com_code, epci_name, epci_code, dep_code, dep_name, reg_code, reg_name, beneficiaire_nom_prenom_com_name, semestre_annee, beneficiaire_nom_pays]
+Index: []
+
+Doublons dans la colonne entreprise_id :
