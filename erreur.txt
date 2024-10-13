@@ -1,0 +1,7 @@
+Ligne 654 : 56 colonnes au lieu de 55
+Ligne 675 : 56 colonnes au lieu de 55
+Ligne 1179 : 56 colonnes au lieu de 55
+Ligne 3783 : 56 colonnes au lieu de 55
+Ligne 6692 : 56 colonnes au lieu de 55
+Ligne 6716 : 56 colonnes au lieu de 55
+Ligne 7070 : 56 colonnes au lieu de 55
